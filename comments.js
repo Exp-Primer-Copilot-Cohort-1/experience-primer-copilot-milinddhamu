@@ -24,4 +24,3 @@ const localStrategy = require('passport-local');
 // create a path to express-validator
 const expressValidator = require('express-validator');
 // create a path to moment
-const moment =
